@@ -9,5 +9,5 @@ def reverseArray(arr):
         j-=1
     return arr
 
-arr={1,2,3,4}
+arr=[1,2,3,4]
 print(reverseArray(arr))
